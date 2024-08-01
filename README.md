@@ -5,8 +5,7 @@
 - 📫 How to reach me: **Email me at rashmibahadure53@gmail.com  or connect with me on LinkedIn [https://www.linkedin.com/in/rashmi-bahadure-61a3b725a].**
 - ⚡ Fun fact: **Love to explore new places,countries.....**
 - 🛠️ Technologies I work with: **Flutter Framework**
-- 📈 Currently working on: **ERP Project which is a **
-- 🌍 Hobbies: **In my free time, I enjoy painting and exploring new places.**
+- 📈 Currently working on: **Working on Eenadu ERP project under Ramoji group of Companies**
 
 
 <!---
